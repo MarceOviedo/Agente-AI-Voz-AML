@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Compliance Workflow",
+  "description": "An interactive tool that simulates the process flow of a transactional monitoring system, guiding a compliance officer through alert investigation and resolution using a simulated AI assistant.",
+  "requestFramePermissions": []
+}
